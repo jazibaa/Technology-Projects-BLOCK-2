@@ -10,6 +10,6 @@
 | PC4    | 192.168.1.14     | 255.255.255.0     |        |
 
 ### 3.2 Screenshot of IP Configuration Page
-<img width="940" height="698" alt="image" src="https://github.com/user-attachments/assets/de43a6bf-e485-45ac-a56c-12d2780999d4" />
+
 
 
