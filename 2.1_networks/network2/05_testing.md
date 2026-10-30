@@ -14,7 +14,6 @@ Explain the result.
 ### 5.2 DNS Resolution  
 Describe whether DNS resolved the hostname correctly.
 
----
 
 ### 5.3 DHCP Lease Verification  
 Describe the IPs assigned to each PC.  
