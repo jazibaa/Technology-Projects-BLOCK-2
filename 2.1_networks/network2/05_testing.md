@@ -21,4 +21,3 @@ Describe the IPs assigned to each PC.
 Do they match the DHCP pool?
 
 📸 **Screenshot: `ipconfig /all`**
-<img width="967" height="461" alt="image" src="https://github.com/user-attachments/assets/a09778af-cf3d-47c3-990b-b3f30dee44e3" />
