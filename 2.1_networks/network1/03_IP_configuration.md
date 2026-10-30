@@ -11,5 +11,6 @@
 
 ### 3.2 Screenshot of IP Configuration Page
 
+<img width="674" height="649" alt="image" src="https://github.com/user-attachments/assets/f6cb5482-3cb5-475d-99e5-74db30a147f6" />
 
 
