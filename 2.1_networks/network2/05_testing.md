@@ -8,7 +8,8 @@ Explain the result.
 
 📸 **Screenshot of successful ping**
 
----
+<img width="450" height="655" alt="image" src="https://github.com/user-attachments/assets/17ef3d9b-2ef1-4106-8c4a-49e2fa82688e" />
+
 
 ### 5.2 DNS Resolution  
 Describe whether DNS resolved the hostname correctly.
@@ -20,4 +21,4 @@ Describe the IPs assigned to each PC.
 Do they match the DHCP pool?
 
 📸 **Screenshot: `ipconfig /all`**
-
+<img width="967" height="461" alt="image" src="https://github.com/user-attachments/assets/a09778af-cf3d-47c3-990b-b3f30dee44e3" />
